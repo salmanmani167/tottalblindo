@@ -439,7 +439,7 @@
         "heading": "Subheading",
         "title": "Some header",
         "text": "Some description",
-        "show_button": false,
+        "show_button": true,
         "button_style": "primary",
         "button_label": "Explore Our Store",
         "button_link": "",
