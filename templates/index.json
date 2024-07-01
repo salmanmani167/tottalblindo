@@ -1,1 +1,581 @@
-{"sections":{"cards-grid":{"type":"cards-grid","blocks":{"block_1":{"type":"column","settings":{"column_start":1,"column_end":5,"row_start":"unset","row_end":"unset","min_height":"large","padding":"large","image":"shopify:\/\/shop_images\/hero_f94c7eb2-c4a8-4464-9f95-47ed41b5e911.jpg","image_size":"cover","icon_size":"cover","icon_position":"left-top","icon_background":"background-2","background_color":"#ffffff","background_effect":"none","effect_opacity":0,"enable_mobile_overlay":false,"text_align":"left","text_color_scheme":"light","subheading":"","color_text":"#ffffff","show_subheading_dot":false,"color_dot":"#40b66f","heading":"Tech you want..at prices you'll love!","heading_size":"h1","heading_width":50,"text":"Explore a wide variety of new & refurbished smartphones, laptops, smartwatches and more.","text_size":"medium","text_width":40,"show_button":false,"button_label":"Shop Our Best Deals","button_link":"","style_button":"button button--primary button--arrow","add_button_label":"","add_button_price":"","card_link":""}}},"block_order":["block_1"],"custom_css":[],"settings":{"color_scheme":"background-1","columns":4,"margin_top":"no-indent","margin_bottom":"no-indent","padding_top":"no-indent","padding_bottom":"no-indent"}},"featured-products":{"type":"featured-products","settings":{"color_scheme":"background-1","subheading":"","heading":"","heading_size":"h2","show_info":true,"info_subheading":"","info_heading":"Top 10 Bestsellers This Week","info_heading_size":"h2","text":"Our curated selection features the hottest gadgets and devices flying off the shelves.","show_button":false,"button_style":"primary","button_label":"Explore Our Store","button_link":"","product_list":["apple-airpods-2nd-gen-lightning-charging-case","apple-airpods-3rd-gen-lightning-charging-case","apple-watch-se-2023-cellular-44mm-starlight-sport-loop"],"columns_mobile":"2","image_ratio":"square","image_fit":"cover","show_secondary_image":false,"show_vendor":false,"show_desc":false,"show_sku":false,"margin_top":"no-indent","margin_bottom":"s","padding_top":"s","padding_bottom":"no-indent"}},"categories-list":{"type":"categories-list","blocks":{"collection_2":{"type":"collection_item","settings":{"collection":"laptops","image":"shopify:\/\/shop_images\/Laptop_6f854d27-979d-4be5-baa8-48d5b3921a67.webp"}},"collection_1":{"type":"collection_item","settings":{"collection":"headphones","image":"shopify:\/\/shop_images\/headphones_2.webp"}},"collection_item_7cDk4j":{"type":"collection_item","settings":{"collection":"smart-watches","image":"shopify:\/\/shop_images\/smart_watch_41c71d04-525a-4ab0-9376-df8751d63936.webp"}},"collection_3":{"type":"collection_item","settings":{"collection":"televisions","image":"shopify:\/\/shop_images\/TV_716fd2dd-f8eb-43a3-a222-ea6cc23b7af4.webp"}},"collection_4":{"type":"collection_item","settings":{"collection":"electric-scooters","image":"shopify:\/\/shop_images\/e-scooter_76b2b1e8-225c-482a-aa97-30efb31c1951.webp"}},"collection_5":{"type":"collection_item","settings":{"collection":"home-garden","image":"shopify:\/\/shop_images\/airfryer_3fb14c7a-5968-4210-97f1-e1627c8281eb.webp"}}},"block_order":["collection_2","collection_1","collection_item_7cDk4j","collection_3","collection_4","collection_5"],"settings":{"color_scheme":"background-2","heading":"Top-Tier Tech at Unbeatable Prices","image_ratio":"square","image_fit":"cover","collections_to_show":6,"padding_top":"l","padding_bottom":"m"}},"171750048793044906":{"type":"apps","blocks":{"judge_me_reviews_featured_carousel_hDUpEG":{"type":"shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8","settings":{"maxwidth":1080}}},"block_order":["judge_me_reviews_featured_carousel_hDUpEG"],"settings":{"include_margins":true}},"featured_blog_1":{"type":"featured-blog","disabled":true,"settings":{"color_scheme":"background-1","color_scheme_card":"background-2","subheading":"","heading":"Latest Articles","heading_size":"h3","post_layout":"column-icon","image_width":"small","image_fit":"contain","icon_background":"background-2","blog":"tech","post_limit":6,"post_limit_mobile":3,"show_image":false,"show_tags":false,"show_date":false,"show_author":false,"show_excerpt":false,"show_view_all":false,"show_view_all_mobile":true,"button_label":"Button label","button_style":"secondary","padding_top":"m","padding_bottom":"no-indent"}},"product-promo":{"type":"product-promo","blocks":{"block_1":{"type":"column","settings":{"image_size":"cover","opacity_overlay":0.1,"background_color":"#cccccc","product":"","text_color_scheme":"dark","subheading":"Subheading","color_text":"#282828","show_subheading_dot":false,"color_dot":"#40b66f","heading":"Heading","heading_size":"h2","text":"Some description","show_button":false,"button_style":"primary","button_label":"Explore Our Store","button_link":""}},"block_2":{"type":"column","settings":{"image_size":"cover","opacity_overlay":0.1,"background_color":"#cccccc","product":"","text_color_scheme":"dark","subheading":"Subheading","color_text":"#282828","show_subheading_dot":false,"color_dot":"#40b66f","heading":"Heading","heading_size":"h2","text":"Some description","show_button":false,"button_style":"primary","button_label":"Explore Our Store","button_link":""}}},"block_order":["block_1","block_2"],"disabled":true,"settings":{"color_scheme":"background-1","columns_per_row":"2","margin_top":"no-indent","margin_bottom":"no-indent","padding_top":"m","padding_bottom":"no-indent","image_ratio":"square","image_fit":"cover","show_secondary_image":false,"show_vendor":true,"show_sku":false}},"featured-product":{"type":"featured-product","blocks":{"block_1":{"type":"text","settings":{"text":"Text block","vendor_url":""}},"block_2":{"type":"rating","settings":{}},"block_3":{"type":"title","settings":{"heading_size":"h2"}},"block_4":{"type":"price","settings":{}},"block_5":{"type":"variant_picker","settings":{"picker_type":"button"}},"block_6":{"type":"buy_buttons","settings":{"show_dynamic_checkout":true,"show_quantity":true}}},"block_order":["block_1","block_2","block_3","block_4","block_5","block_6"],"disabled":true,"settings":{"product_item":"","color_scheme":"background-2","heading":"Some heading","padding_top":"m","padding_bottom":"no-indent"}},"popular-products":{"type":"popular-products","disabled":true,"settings":{"heading":"Some heading","collection_list":[],"products_limit":12,"products_to_show":4,"filter":true,"filter_type":"collections","show_vendor":true,"show_sku":false,"image_ratio":"square","image_fit":"cover","padding_top":"m","padding_bottom":"m"}},"8c56d2e5-9685-4f40-a0e6-22a8d1b85096":{"type":"compare","disabled":true,"settings":{"heading":"Subheading","title":"Some header","text":"Some description","show_button":false,"button_style":"primary","button_label":"Explore Our Store","button_link":"","margin_top":"no-indent","margin_bottom":"no-indent","padding_top":"m","padding_bottom":"no-indent"}},"featured_blog_2":{"type":"featured-blog","settings":{"color_scheme":"background-2","color_scheme_card":"background-2","subheading":"","heading":"","heading_size":"h3","post_layout":"grid","image_width":"small","image_fit":"contain","icon_background":"background-2","blog":"tech","post_limit":3,"post_limit_mobile":3,"show_image":true,"show_tags":true,"show_date":true,"show_author":true,"show_excerpt":true,"show_view_all":false,"show_view_all_mobile":true,"button_label":"Button label","button_style":"secondary","padding_top":"m","padding_bottom":"m"}},"a569544e-3aba-492f-a6a1-aa3988de4cef":{"type":"collapsible-content","blocks":{"template--18876850438419__a569544e-3aba-492f-a6a1-aa3988de4cef-16831841146a7cb38f-0":{"type":"accordion","settings":{"question":"What Does Item Condition Mean?","answer":"<p>We are constantly scouring the market to bring the very best deals for you. These items are often brand new but some can be factory refurbished. We clearly state on the product page the condition of the item you are viewing, these can be displayed as things like \"Brand New\" or \"Refurbished Grade A\". If you move over or select these condition labels the site will pop-up a detailed explanation of what these mean. You may also view our item grading page to see details of all the conditions of the products we sell. All of our products carry a fully comprehensive 1 year parts and labour warranty and you are protected by our 14 Day money back guarantee.<\/p>","opened":false}},"template--18876850438419__a569544e-3aba-492f-a6a1-aa3988de4cef-16831841146a7cb38f-1":{"type":"accordion","settings":{"question":"I Need To Return An Item, What Now?","answer":"<p>Some descriptionWhilst we are confident that you will be happy with your purchases from Dealbuyer.com we appreciate there may be times when you need to return an item to us. Whether it is due to an item damaged in transit, faulty or even just a change of mind we are here for you and willing to help. Please take a look at our returns section for full details on what to do if you need to return a purchase to us.<\/p>","opened":false}},"template--18876850438419__a569544e-3aba-492f-a6a1-aa3988de4cef-16831841146a7cb38f-2":{"type":"accordion","settings":{"question":"Wht Choose Deal Buyer?","answer":"<p>At dealbuyer.com our aim is simple - to make shopping online for consumer electronics, quick, easy, and offer incredible value for money. We have a strong focus on customer service and after sales care, and strive to offer the best online purchasing experience going. We dispatch most orders placed before 4:30pm for a next working day delivery so you’re not waiting days or weeks for your new purchase to arrive!<\/p>","opened":false}}},"block_order":["template--18876850438419__a569544e-3aba-492f-a6a1-aa3988de4cef-16831841146a7cb38f-0","template--18876850438419__a569544e-3aba-492f-a6a1-aa3988de4cef-16831841146a7cb38f-1","template--18876850438419__a569544e-3aba-492f-a6a1-aa3988de4cef-16831841146a7cb38f-2"],"settings":{"heading":"FAQ","heading_size":"h1","text":"Have a question? Check out our FAQ section for answers to common inquiries.","margin_top":"no-indent","margin_bottom":"no-indent","padding_top":"m","padding_bottom":"l"}},"multicolumn":{"type":"multicolumn","blocks":{"column-1":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/delivery_2654cd38-c41c-452f-b0da-7cab44edd308.png","heading":"Free Shipping & Returns","text":"Enjoy free shipping on all orders with no minimum spend. Hassle-free returns within 30 days of purchase."}},"column-2":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/money_back_9ccce562-fb7f-4a11-af2e-7d6cce027a71.png","heading":"Money Back Guarantee","text":"Shop with confidence. Get a full refund if you're not completely satisfied with your purchase within 30 days"}},"column-3":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/support.png","heading":"Online Support 24\/7","text":"Need assistance? Our dedicated support team is available around the clock to help with any inquiries you have."}},"column-4":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/discounts.png","heading":"Regular Sales","text":"Discover incredible deals and discounts on your favourite electronics. Save big with our regular sales events!"}}},"block_order":["column-1","column-2","column-3","column-4"],"settings":{"color_scheme":"background-2","multicolumn_to_show":4,"image_type":"image","icon_background":"background-2","image_width":"medium","object_fit":"contain","swipe_on_mobile":true,"border_top":false,"margin_top":"no-indent","margin_bottom":"no-indent","padding_top":"m","padding_bottom":"l"}}},"order":["cards-grid","featured-products","categories-list","171750048793044906","featured_blog_1","product-promo","featured-product","popular-products","8c56d2e5-9685-4f40-a0e6-22a8d1b85096","featured_blog_2","a569544e-3aba-492f-a6a1-aa3988de4cef","multicolumn"]}
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "slideshow_fnNYgw": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_CbG9eX": {
+          "type": "slide",
+          "settings": {
+            "color_scheme": "background-3",
+            "subheading": "Subheading",
+            "heading": "Some heading",
+            "heading_size": "medium",
+            "description": "Some description",
+            "show_button": true,
+            "button_style": "primary",
+            "button_label": "Explore Our Store",
+            "button_link": "",
+            "overlay_opacity": 0.5
+          }
+        },
+        "slide_r67LUw": {
+          "type": "slide",
+          "settings": {
+            "color_scheme": "background-3",
+            "subheading": "Subheading",
+            "heading": "Some heading",
+            "heading_size": "medium",
+            "description": "Some description",
+            "show_button": true,
+            "button_style": "primary",
+            "button_label": "Explore Our Store",
+            "button_link": "",
+            "overlay_opacity": 0.5
+          }
+        }
+      },
+      "block_order": [
+        "slide_CbG9eX",
+        "slide_r67LUw"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "height": "16\/9",
+        "enable_autoplay": false,
+        "slide_duration": 5,
+        "controls_color_scheme": "light",
+        "padding_top": "no-indent",
+        "padding_bottom": "no-indent",
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent"
+      }
+    },
+    "cards-grid": {
+      "type": "cards-grid",
+      "blocks": {
+        "block_1": {
+          "type": "column",
+          "settings": {
+            "column_start": 1,
+            "column_end": 5,
+            "row_start": "unset",
+            "row_end": "unset",
+            "min_height": "large",
+            "padding": "large",
+            "image_size": "cover",
+            "icon_size": "cover",
+            "icon_position": "left-top",
+            "icon_background": "background-2",
+            "background_color": "#ffffff",
+            "background_effect": "none",
+            "effect_opacity": 0,
+            "enable_mobile_overlay": false,
+            "text_align": "left",
+            "text_color_scheme": "light",
+            "subheading": "",
+            "color_text": "#ffffff",
+            "show_subheading_dot": false,
+            "color_dot": "#40b66f",
+            "heading": "Tech you want..at prices you'll love!",
+            "heading_size": "h1",
+            "heading_width": 50,
+            "text": "Explore a wide variety of new & refurbished smartphones, laptops, smartwatches and more.",
+            "text_size": "medium",
+            "text_width": 40,
+            "show_button": false,
+            "button_label": "Shop Our Best Deals",
+            "button_link": "",
+            "style_button": "button button--primary button--arrow",
+            "add_button_label": "",
+            "add_button_price": "",
+            "card_link": ""
+          }
+        },
+        "column_bQHEe6": {
+          "type": "column",
+          "settings": {
+            "column_start": 1,
+            "column_end": 5,
+            "row_start": "unset",
+            "row_end": "unset",
+            "min_height": "small",
+            "padding": "small",
+            "image_size": "cover",
+            "icon_size": "cover",
+            "icon_position": "left-top",
+            "icon_background": "background-2",
+            "background_color": "#FFFFFF",
+            "background_effect": "none",
+            "effect_opacity": 0.4,
+            "enable_mobile_overlay": false,
+            "text_align": "left",
+            "text_color_scheme": "dark",
+            "subheading": "Subheading",
+            "color_text": "#282828",
+            "show_subheading_dot": false,
+            "color_dot": "#40B66F",
+            "heading": "Heading",
+            "heading_size": "h3",
+            "heading_width": 50,
+            "text": "Description.",
+            "text_size": "small",
+            "text_width": 100,
+            "show_button": false,
+            "button_label": "Explore Our Store",
+            "button_link": "",
+            "style_button": "button button--primary button--arrow",
+            "add_button_label": "",
+            "add_button_price": "",
+            "card_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "block_1",
+        "column_bQHEe6"
+      ],
+      "disabled": true,
+      "custom_css": [
+
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "columns": 4,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent",
+        "padding_top": "no-indent",
+        "padding_bottom": "no-indent"
+      }
+    },
+    "featured-products": {
+      "type": "featured-products",
+      "settings": {
+        "color_scheme": "background-1",
+        "subheading": "",
+        "heading": "",
+        "heading_size": "h2",
+        "show_info": true,
+        "info_subheading": "",
+        "info_heading": "Top 10 Bestsellers This Week",
+        "info_heading_size": "h2",
+        "text": "Our curated selection features the hottest gadgets and devices flying off the shelves.",
+        "show_button": false,
+        "button_style": "primary",
+        "button_label": "Explore Our Store",
+        "button_link": "",
+        "product_list": [
+          "apple-airpods-2nd-gen-lightning-charging-case",
+          "apple-airpods-3rd-gen-lightning-charging-case",
+          "apple-watch-se-2023-cellular-44mm-starlight-sport-loop"
+        ],
+        "columns_mobile": "2",
+        "image_ratio": "square",
+        "image_fit": "cover",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_desc": false,
+        "show_sku": false,
+        "margin_top": "no-indent",
+        "margin_bottom": "s",
+        "padding_top": "s",
+        "padding_bottom": "no-indent"
+      }
+    },
+    "categories-list": {
+      "type": "categories-list",
+      "blocks": {
+        "collection_2": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "laptops"
+          }
+        },
+        "collection_1": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "headphones"
+          }
+        },
+        "collection_item_7cDk4j": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "smart-watches"
+          }
+        },
+        "collection_3": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "televisions"
+          }
+        },
+        "collection_4": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "electric-scooters"
+          }
+        },
+        "collection_5": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "home-garden"
+          }
+        }
+      },
+      "block_order": [
+        "collection_2",
+        "collection_1",
+        "collection_item_7cDk4j",
+        "collection_3",
+        "collection_4",
+        "collection_5"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "heading": "Top-Tier Tech at Unbeatable Prices",
+        "image_ratio": "square",
+        "image_fit": "cover",
+        "collections_to_show": 6,
+        "padding_top": "l",
+        "padding_bottom": "m"
+      }
+    },
+    "171750048793044906": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "featured_blog_1": {
+      "type": "featured-blog",
+      "settings": {
+        "color_scheme": "background-1",
+        "color_scheme_card": "background-2",
+        "subheading": "",
+        "heading": "Latest Articles",
+        "heading_size": "h3",
+        "post_layout": "column-icon",
+        "image_width": "small",
+        "image_fit": "contain",
+        "icon_background": "background-2",
+        "blog": "tech",
+        "post_limit": 6,
+        "post_limit_mobile": 3,
+        "show_image": false,
+        "show_tags": false,
+        "show_date": false,
+        "show_author": false,
+        "show_excerpt": false,
+        "show_view_all": false,
+        "show_view_all_mobile": true,
+        "button_label": "Button label",
+        "button_style": "secondary",
+        "padding_top": "m",
+        "padding_bottom": "no-indent"
+      }
+    },
+    "product-promo": {
+      "type": "product-promo",
+      "blocks": {
+        "block_1": {
+          "type": "column",
+          "settings": {
+            "image_size": "cover",
+            "opacity_overlay": 0.1,
+            "background_color": "#cccccc",
+            "product": "",
+            "text_color_scheme": "dark",
+            "subheading": "Subheading",
+            "color_text": "#282828",
+            "show_subheading_dot": false,
+            "color_dot": "#40b66f",
+            "heading": "Heading",
+            "heading_size": "h2",
+            "text": "Some description",
+            "show_button": false,
+            "button_style": "primary",
+            "button_label": "Explore Our Store",
+            "button_link": ""
+          }
+        },
+        "block_2": {
+          "type": "column",
+          "settings": {
+            "image_size": "cover",
+            "opacity_overlay": 0.1,
+            "background_color": "#cccccc",
+            "product": "",
+            "text_color_scheme": "dark",
+            "subheading": "Subheading",
+            "color_text": "#282828",
+            "show_subheading_dot": false,
+            "color_dot": "#40b66f",
+            "heading": "Heading",
+            "heading_size": "h2",
+            "text": "Some description",
+            "show_button": false,
+            "button_style": "primary",
+            "button_label": "Explore Our Store",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "block_1",
+        "block_2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "columns_per_row": "2",
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent",
+        "padding_top": "m",
+        "padding_bottom": "no-indent",
+        "image_ratio": "square",
+        "image_fit": "cover",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_sku": false
+      }
+    },
+    "featured-product": {
+      "type": "featured-product",
+      "blocks": {
+        "block_1": {
+          "type": "text",
+          "settings": {
+            "text": "Text block",
+            "vendor_url": ""
+          }
+        },
+        "block_2": {
+          "type": "rating",
+          "settings": {
+          }
+        },
+        "block_3": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h2"
+          }
+        },
+        "block_4": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "block_5": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "block_6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_quantity": true
+          }
+        }
+      },
+      "block_order": [
+        "block_1",
+        "block_2",
+        "block_3",
+        "block_4",
+        "block_5",
+        "block_6"
+      ],
+      "settings": {
+        "product_item": "",
+        "color_scheme": "background-2",
+        "heading": "Some heading",
+        "padding_top": "m",
+        "padding_bottom": "no-indent"
+      }
+    },
+    "popular-products": {
+      "type": "popular-products",
+      "settings": {
+        "heading": "Some heading",
+        "collection_list": [
+
+        ],
+        "products_limit": 12,
+        "products_to_show": 4,
+        "filter": true,
+        "filter_type": "collections",
+        "show_vendor": true,
+        "show_sku": false,
+        "image_ratio": "square",
+        "image_fit": "cover",
+        "padding_top": "m",
+        "padding_bottom": "m"
+      }
+    },
+    "8c56d2e5-9685-4f40-a0e6-22a8d1b85096": {
+      "type": "compare",
+      "settings": {
+        "heading": "Subheading",
+        "title": "Some header",
+        "text": "Some description",
+        "show_button": false,
+        "button_style": "primary",
+        "button_label": "Explore Our Store",
+        "button_link": "",
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent",
+        "padding_top": "m",
+        "padding_bottom": "no-indent"
+      }
+    },
+    "featured_blog_2": {
+      "type": "featured-blog",
+      "settings": {
+        "color_scheme": "background-2",
+        "color_scheme_card": "background-2",
+        "subheading": "",
+        "heading": "",
+        "heading_size": "h3",
+        "post_layout": "grid",
+        "image_width": "small",
+        "image_fit": "contain",
+        "icon_background": "background-2",
+        "blog": "tech",
+        "post_limit": 3,
+        "post_limit_mobile": 3,
+        "show_image": true,
+        "show_tags": true,
+        "show_date": true,
+        "show_author": true,
+        "show_excerpt": true,
+        "show_view_all": false,
+        "show_view_all_mobile": true,
+        "button_label": "Button label",
+        "button_style": "secondary",
+        "padding_top": "m",
+        "padding_bottom": "m"
+      }
+    },
+    "a569544e-3aba-492f-a6a1-aa3988de4cef": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--18876850438419__a569544e-3aba-492f-a6a1-aa3988de4cef-16831841146a7cb38f-0": {
+          "type": "accordion",
+          "settings": {
+            "question": "What Does Item Condition Mean?",
+            "answer": "<p>We are constantly scouring the market to bring the very best deals for you. These items are often brand new but some can be factory refurbished. We clearly state on the product page the condition of the item you are viewing, these can be displayed as things like \"Brand New\" or \"Refurbished Grade A\". If you move over or select these condition labels the site will pop-up a detailed explanation of what these mean. You may also view our item grading page to see details of all the conditions of the products we sell. All of our products carry a fully comprehensive 1 year parts and labour warranty and you are protected by our 14 Day money back guarantee.<\/p>",
+            "opened": false
+          }
+        },
+        "template--18876850438419__a569544e-3aba-492f-a6a1-aa3988de4cef-16831841146a7cb38f-1": {
+          "type": "accordion",
+          "settings": {
+            "question": "I Need To Return An Item, What Now?",
+            "answer": "<p>Some descriptionWhilst we are confident that you will be happy with your purchases from Dealbuyer.com we appreciate there may be times when you need to return an item to us. Whether it is due to an item damaged in transit, faulty or even just a change of mind we are here for you and willing to help. Please take a look at our returns section for full details on what to do if you need to return a purchase to us.<\/p>",
+            "opened": false
+          }
+        },
+        "template--18876850438419__a569544e-3aba-492f-a6a1-aa3988de4cef-16831841146a7cb38f-2": {
+          "type": "accordion",
+          "settings": {
+            "question": "Wht Choose Deal Buyer?",
+            "answer": "<p>At dealbuyer.com our aim is simple - to make shopping online for consumer electronics, quick, easy, and offer incredible value for money. We have a strong focus on customer service and after sales care, and strive to offer the best online purchasing experience going. We dispatch most orders placed before 4:30pm for a next working day delivery so you’re not waiting days or weeks for your new purchase to arrive!<\/p>",
+            "opened": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18876850438419__a569544e-3aba-492f-a6a1-aa3988de4cef-16831841146a7cb38f-0",
+        "template--18876850438419__a569544e-3aba-492f-a6a1-aa3988de4cef-16831841146a7cb38f-1",
+        "template--18876850438419__a569544e-3aba-492f-a6a1-aa3988de4cef-16831841146a7cb38f-2"
+      ],
+      "settings": {
+        "heading": "FAQ",
+        "heading_size": "h1",
+        "text": "Have a question? Check out our FAQ section for answers to common inquiries.",
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent",
+        "padding_top": "m",
+        "padding_bottom": "l"
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column-1": {
+          "type": "column",
+          "settings": {
+            "heading": "Free Shipping & Returns",
+            "text": "Enjoy free shipping on all orders with no minimum spend. Hassle-free returns within 30 days of purchase."
+          }
+        },
+        "column-2": {
+          "type": "column",
+          "settings": {
+            "heading": "Money Back Guarantee",
+            "text": "Shop with confidence. Get a full refund if you're not completely satisfied with your purchase within 30 days"
+          }
+        },
+        "column-3": {
+          "type": "column",
+          "settings": {
+            "heading": "Online Support 24\/7",
+            "text": "Need assistance? Our dedicated support team is available around the clock to help with any inquiries you have."
+          }
+        },
+        "column-4": {
+          "type": "column",
+          "settings": {
+            "heading": "Regular Sales",
+            "text": "Discover incredible deals and discounts on your favourite electronics. Save big with our regular sales events!"
+          }
+        }
+      },
+      "block_order": [
+        "column-1",
+        "column-2",
+        "column-3",
+        "column-4"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "multicolumn_to_show": 4,
+        "image_type": "image",
+        "icon_background": "background-2",
+        "image_width": "medium",
+        "object_fit": "contain",
+        "swipe_on_mobile": true,
+        "border_top": false,
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent",
+        "padding_top": "m",
+        "padding_bottom": "l"
+      }
+    }
+  },
+  "order": [
+    "slideshow_fnNYgw",
+    "cards-grid",
+    "featured-products",
+    "categories-list",
+    "171750048793044906",
+    "featured_blog_1",
+    "product-promo",
+    "featured-product",
+    "popular-products",
+    "8c56d2e5-9685-4f40-a0e6-22a8d1b85096",
+    "featured_blog_2",
+    "a569544e-3aba-492f-a6a1-aa3988de4cef",
+    "multicolumn"
+  ]
+}
