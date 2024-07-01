@@ -1,0 +1,22 @@
+@media (min-width: 990px){
+  .head-support{
+      display: block !important;
+  }  
+  .head-support img {
+      display: block;
+  }
+}  
+@media (min-width: 990px) and (max-width: 1199px) {
+  .header__column {
+    position: relative;
+    }
+    .head-support {
+        position: absolute;
+        right: 50px;
+    }
+}
+@media (max-width: 989px){
+  .head-support{
+    display: none !important;
+  }
+}
