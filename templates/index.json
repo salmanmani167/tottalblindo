@@ -221,22 +221,46 @@
             "collection": "iphone-s"
           }
         },
-        "collection_3": {
+        "collection_item_WWYej4": {
           "type": "collection_item",
           "settings": {
-            "collection": "televisions"
+            "collection": "iphone-s"
           }
         },
-        "collection_4": {
+        "collection_item_xwfMWE": {
           "type": "collection_item",
           "settings": {
-            "collection": "electric-scooters"
+            "collection": "iphone-s"
           }
         },
-        "collection_5": {
+        "collection_item_WRVQEy": {
           "type": "collection_item",
           "settings": {
-            "collection": "home-garden"
+            "collection": "iphone-s"
+          }
+        },
+        "collection_item_qEqNNe": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "iphone-s"
+          }
+        },
+        "collection_item_3jkrg9": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "iphone-s"
+          }
+        },
+        "collection_item_3kqW7W": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "iphone-s"
+          }
+        },
+        "collection_item_tK4FMY": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "iphone-s"
           }
         }
       },
@@ -244,9 +268,13 @@
         "collection_2",
         "collection_1",
         "collection_item_7cDk4j",
-        "collection_3",
-        "collection_4",
-        "collection_5"
+        "collection_item_WWYej4",
+        "collection_item_xwfMWE",
+        "collection_item_WRVQEy",
+        "collection_item_qEqNNe",
+        "collection_item_3jkrg9",
+        "collection_item_3kqW7W",
+        "collection_item_tK4FMY"
       ],
       "settings": {
         "color_scheme": "background-2",
