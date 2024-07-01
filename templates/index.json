@@ -171,26 +171,33 @@
         "info_heading": "Top 10 Bestsellers This Week",
         "info_heading_size": "h2",
         "text": "Our curated selection features the hottest gadgets and devices flying off the shelves.",
-        "show_button": false,
+        "show_button": true,
         "button_style": "primary",
         "button_label": "Explore Our Store",
         "button_link": "",
         "product_list": [
-          "apple-airpods-2nd-gen-lightning-charging-case",
-          "apple-airpods-3rd-gen-lightning-charging-case",
-          "apple-watch-se-2023-cellular-44mm-starlight-sport-loop"
+          "apple-iphone-12-128gb-nero",
+          "apple-iphone-12-128gb-bianco",
+          "apple-iphone-11-64gb-nero",
+          "apple-iphone-12-128gb-viola",
+          "apple-iphone-12-128gb-blue-enjoy-first-class",
+          "apple-iphone-12-128gb-white-enjoy-first-class",
+          "apple-iphone-12-pro-max-128gb-gold-enjoy-first-class",
+          "apple-iphone-12-pro-max-128gb-graphite-enjoy-business-class",
+          "apple-iphone-12-pro-max-256gb-gold-enjoy-business-class",
+          "apple-iphone-13-128gb-galassia"
         ],
         "columns_mobile": "2",
         "image_ratio": "square",
         "image_fit": "cover",
         "show_secondary_image": false,
-        "show_vendor": false,
+        "show_vendor": true,
         "show_desc": false,
         "show_sku": false,
         "margin_top": "no-indent",
         "margin_bottom": "s",
         "padding_top": "s",
-        "padding_bottom": "no-indent"
+        "padding_bottom": "s"
       }
     },
     "categories-list": {
