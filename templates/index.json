@@ -419,7 +419,7 @@
       "settings": {
         "heading": "Some heading",
         "collection_list": [
-
+          "frontpage"
         ],
         "products_limit": 12,
         "products_to_show": 4,
