@@ -17,7 +17,7 @@
           "settings": {
             "color_scheme": "background-3",
             "subheading": "",
-            "heading": "Some heading",
+            "heading": "",
             "heading_size": "medium",
             "description": "",
             "show_button": false,
@@ -51,7 +51,7 @@
       "settings": {
         "color_scheme": "background-1",
         "full_width": true,
-        "height": "16\/9",
+        "height": "adapt",
         "enable_autoplay": false,
         "slide_duration": 5,
         "controls_color_scheme": "light",
