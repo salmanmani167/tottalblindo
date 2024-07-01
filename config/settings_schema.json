@@ -1,11 +1,11 @@
 [
 	{
 		"name": "theme_info",
-		"theme_name": "Stockmart",
-		"theme_version": "1.1.4",
-		"theme_author": "Segment",
-		"theme_documentation_url": "https://madebysegment.com/help-center/documentation/stockmart/",
-		"theme_support_url": "https://madebysegment.com/help-center/"
+		"theme_name": "totalblindo",
+		"theme_version": "1.0",
+		"theme_author": "Sulaman",
+		"theme_documentation_url": "https://github.com/salmanmani167/tottalblindo",
+		"theme_support_url": "https://github.com/salmanmani167/tottalblindo"
 	},
 	{
 		"name": "t:settings_schema.dark_mode.name",

@@ -1445,7 +1445,7 @@
 					"settings": {
 						"mega_menu_trigger": {
 							"label": "Trigger",
-							"info": "Write the exact name of the link with the submenu. For more information, visit [the documentation page.](https://getstockmart.com/help-center/documentation)"
+							"info": "Write the exact name of the link with the submenu. For more information, visit [the documentation page.](https://github.com/salmanmani167/tottalblindo)"
 						},
 						"mega_menu_header_1": {
 							"content": "Promo block 1"
@@ -3342,7 +3342,7 @@
 						},
 						"row_end": {
 							"label": "Row end",
-							"info": "For more examples of the grid, visit [the theme's documentation page](https://getstockmart.com/help-center/documentation/#grid-banner).",
+							"info": "For more examples of the grid, visit [the theme's documentation page](https://github.com/salmanmani167/tottalblindo).",
 							"options__1": {
 								"label": "2"
 							},
