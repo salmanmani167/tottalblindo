@@ -28,25 +28,26 @@
             "overlay_opacity": 0
           }
         },
-        "slide_r67LUw": {
+        "slide_VB6UyU": {
           "type": "slide",
           "settings": {
             "color_scheme": "background-3",
-            "subheading": "Subheading",
-            "heading": "Some heading",
+            "subheading": "",
+            "heading": "",
             "heading_size": "medium",
-            "description": "Some description",
-            "show_button": true,
+            "description": "",
+            "show_button": false,
             "button_style": "primary",
             "button_label": "Explore Our Store",
             "button_link": "",
-            "overlay_opacity": 0.5
+            "image": "shopify:\/\/shop_images\/Spedizione-Crono-Express-3.png",
+            "overlay_opacity": 0
           }
         }
       },
       "block_order": [
         "slide_CbG9eX",
-        "slide_r67LUw"
+        "slide_VB6UyU"
       ],
       "settings": {
         "color_scheme": "background-1",
