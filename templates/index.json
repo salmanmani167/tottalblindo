@@ -453,6 +453,7 @@
     },
     "featured_blog_2": {
       "type": "featured-blog",
+      "disabled": true,
       "settings": {
         "color_scheme": "background-2",
         "color_scheme_card": "background-2",
