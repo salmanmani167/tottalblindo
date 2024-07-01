@@ -156,7 +156,8 @@
       "settings": {
         "header_type": "bottom-menu",
         "color_scheme": "background-3",
-        "logo_width": 250,
+        "logo": "shopify:\/\/shop_images\/nuovo-logo-bianco-1.webp",
+        "logo_width": 120,
         "menu": "main-menu",
         "small_menu": "",
         "enable_country_selector": true,
